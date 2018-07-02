@@ -1,5 +1,5 @@
-#= require jquery-fileupload/basic
-#= require jquery-fileupload/vendor/tmpl
+import 'blueimp-file-upload';
+import tmpl from 'blueimp-tmpl';
 
 $ = jQuery
 
